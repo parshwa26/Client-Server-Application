@@ -1,0 +1,5 @@
+command = put a.txt
+Received put command from client
+filename=a.txt
+file is ready to upload...
+File uploaded successfully.
